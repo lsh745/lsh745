@@ -25,4 +25,4 @@ I enjoy coding. My primary language is **Python** and **Java** as auxiliary. Esp
 
 ### #Studies
 
-Constructing/importing.
+Writing/importing.
