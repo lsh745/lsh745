@@ -1,16 +1,28 @@
-### Hi there 👋
+I'm **Seunghyuk Lee**. If it's hard to pronounce, you can call me **Hayden**. 
 
-<!--
-**lsh745/lsh745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My major is **Information Security**, but I prefer to develop something than hack some stuff. 
 
-Here are some ideas to get you started:
+I enjoy coding. My primary language is **Python** and **Java** as auxiliary. Especially interested in **deep learning**, **Data Science**, and **Cryptography** nowadays(This keeps changing).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### My Works
+
+- [Discord Bot](https://github.com/lsh745/Discord-Bot)
+- [Classic Cryptography Tool](https://github.com/lsh745/crypt.py)
+
+
+
+### Write-ups
+
+- [Defend The Web](https://github.com/lsh745/CTF/tree/master/Defend%20The%20Web)
+
+- [Hack CTF](https://github.com/lsh745/CTF/tree/master/HackCTF)
+
+- [HackThis](https://github.com/lsh745/CTF/blob/master/HackThis.md)
+
+
+
+### #Studies
+
+Constructing/importing.
