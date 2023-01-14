@@ -9,7 +9,6 @@ I enjoy coding. My primary language is **Python** and **Java** as auxiliary. Esp
 ### My Works
 
 - [Discord Bot](https://github.com/lsh745/Discord-Bot)
-- [Classic Cryptography Tool](https://github.com/lsh745/crypt.py)
 
 
 
